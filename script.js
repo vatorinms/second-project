@@ -43,7 +43,7 @@ renderAdded();
 //let inputartist = document.querySelector('.input__text_type_artist');
 //console.log(typeof inputartist.value);
 
-//console.log(typeof document.querySelector('.input__text_type_artist').value);
+
 
 
 
